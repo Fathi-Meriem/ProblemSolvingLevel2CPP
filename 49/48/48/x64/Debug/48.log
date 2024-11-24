@@ -1,0 +1,5 @@
+﻿  48.cpp
+C:\Users\FATHI MERIEM\source\repos\course 5\48\48\48.cpp(13,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\FATHI MERIEM\source\repos\course 5\48\48\48.cpp(18,27): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\FATHI MERIEM\source\repos\course 5\48\48\48.cpp(28,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  48.vcxproj -> C:\Users\FATHI MERIEM\source\repos\course 5\48\48\x64\Debug\48.exe
