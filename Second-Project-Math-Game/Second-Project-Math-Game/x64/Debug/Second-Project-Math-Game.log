@@ -1,0 +1,4 @@
+﻿  Second-Project-Math-Game.cpp
+C:\Users\FATHI MERIEM\source\repos\course 5\Second-Project-Math-Game\Second-Project-Math-Game\Second-Project-Math-Game.cpp(86,1): warning C4715: 'OperationSymbol': not all control paths return a value
+C:\Users\FATHI MERIEM\source\repos\course 5\Second-Project-Math-Game\Second-Project-Math-Game\Second-Project-Math-Game.cpp(70,1): warning C4715: 'Operations': not all control paths return a value
+  Second-Project-Math-Game.vcxproj -> C:\Users\FATHI MERIEM\source\repos\course 5\Second-Project-Math-Game\x64\Debug\Second-Project-Math-Game.exe
